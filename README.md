@@ -1,7 +1,3 @@
-Sure! Here's a clean and informative `README.md` for your `scraper.py` project:
-
----
-
 ### 📘 README.md
 
 ```markdown
